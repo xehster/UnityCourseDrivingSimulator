@@ -2,10 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowPlayer : MonoBehaviour
+public class TankMoving : MonoBehaviour
 {
-    public GameObject player;
-    public Vector3 offset = new Vector3(0, 5, -7);
+    public float movingSpeed = 10.0f;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,8 +12,8 @@ public class FollowPlayer : MonoBehaviour
     }
 
     // Update is called once per frame
-    void LateUpdate()
+    void Update()
     {
-        transform.position = player.transform.position + offset;
+        transform.Translate(Vector3.forward * movingSpeed * Time.deltaTime);
     }
 }

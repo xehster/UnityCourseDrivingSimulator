@@ -1,26 +1,53 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b860df2b-a0d2-4f3b-81c7-1d0c00c2275a" name="Default Changelist" comment="" />
+    <list default="true" id="b860df2b-a0d2-4f3b-81c7-1d0c00c2275a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityCourseDrivingSimulator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCourseDrivingSimulator/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityCourseDrivingSimulator/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCourseDrivingSimulator/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityCourseDrivingSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCourseDrivingSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/Military_Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/Military_Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/MountainSkybox.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/MountainSkybox.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SkyDome.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SkyDome.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/Spinner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SecondPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TankMoving.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/Spinner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TankMoving.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SecondPlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraSwitcher.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2F1z6IJUo7Y2rnylLc0AKYSAMqI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -53,10 +80,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="33604">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="33604" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -71,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663674202667</updated>
-      <workItem from="1663674205548" duration="2037000" />
+      <workItem from="1663674205548" duration="7380000" />
     </task>
     <servers />
   </component>
@@ -80,6 +107,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
@@ -90,6 +128,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/CameraSwitcher.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/CameraSwitcher.cs" initialLine="23">
+            <startOffsets>
+              <option value="523" />
+            </startOffsets>
+            <endOffsets>
+              <option value="524" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
